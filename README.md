@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/yash-coding-hub/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/yash-coding-hub/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash-coding-hub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/yash-coding-hub/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
