@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yash-coding-hub/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash-coding-hub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/yash-coding-hub/LeetCode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yash-coding-hub/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
