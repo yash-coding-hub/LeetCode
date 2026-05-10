@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
+| [3115-maximum-prime-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/3115-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/yash-coding-hub/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
+| [3115-maximum-prime-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash-coding-hub/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/yash-coding-hub/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
+| [3115-maximum-prime-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash-coding-hub/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
