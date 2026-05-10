@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/yash-coding-hub/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
