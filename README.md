@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yash-coding-hub/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yash-coding-hub/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yash-coding-hub/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yash-coding-hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yash-coding-hub/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0268-missing-number) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 ## Math
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yash-coding-hub/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/yash-coding-hub/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/yash-coding-hub/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -61,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yash-coding-hub/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yash-coding-hub/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yash-coding-hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yash-coding-hub/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
