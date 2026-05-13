@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yash-coding-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0414-third-maximum-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yash-coding-hub/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yash-coding-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0414-third-maximum-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yash-coding-hub/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Counting
 |  |
 | ------- |
