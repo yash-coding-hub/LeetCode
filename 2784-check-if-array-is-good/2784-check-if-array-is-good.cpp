@@ -46,17 +46,5 @@ public:
             return false;
         }
 
-        // if(nums.size() == 1){
-        //     return false;
-        // }
-
-        // for(int i=0; i<n-2; i++){
-
-        //     if(nums[i] == i+1){
-                
-        //     }
-        // }
-
-
     }
 };
