@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isHappy(int n) {
+    bool isHappy(int n) {// solution 
 
         while(n != 1 && n != 4){
 
