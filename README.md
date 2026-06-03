@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/yash-coding-hub/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0507-perfect-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash-coding-hub/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yash-coding-hub/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/yash-coding-hub/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash-coding-hub/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
