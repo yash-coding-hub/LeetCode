@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int reverse(int x) {
+    int reverse(int x) { //solution 
 
 
     if(x == INT_MIN){
