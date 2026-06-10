@@ -33,6 +33,6 @@ public:
             }
         }
 
-        return st.empty();
+        return st.empty(); // return this
     }
 };
