@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yash-coding-hub/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash-coding-hub/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash-coding-hub/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yash-coding-hub/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash-coding-hub/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yash-coding-hub/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/yash-coding-hub/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
