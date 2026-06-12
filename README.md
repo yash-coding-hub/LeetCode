@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yash-coding-hub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yash-coding-hub/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yash-coding-hub/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yash-coding-hub/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yash-coding-hub/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yash-coding-hub/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/yash-coding-hub/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash-coding-hub/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/yash-coding-hub/LeetCode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -343,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/yash-coding-hub/LeetCode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -358,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
