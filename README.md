@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yash-coding-hub/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash-coding-hub/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yash-coding-hub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/yash-coding-hub/LeetCode/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash-coding-hub/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash-coding-hub/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yash-coding-hub/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash-coding-hub/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash-coding-hub/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/yash-coding-hub/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash-coding-hub/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
