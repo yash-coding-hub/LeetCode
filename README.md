@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yash-coding-hub/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yash-coding-hub/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/yash-coding-hub/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/yash-coding-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/yash-coding-hub/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0507-perfect-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yash-coding-hub/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash-coding-hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/yash-coding-hub/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/yash-coding-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/yash-coding-hub/LeetCode/tree/master/0504-base-7) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/yash-coding-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
