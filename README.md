@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yash-coding-hub/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/yash-coding-hub/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/yash-coding-hub/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/yash-coding-hub/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/0258-add-digits) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yash-coding-hub/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yash-coding-hub/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/yash-coding-hub/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash-coding-hub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yash-coding-hub/LeetCode/tree/master/0268-missing-number) |
