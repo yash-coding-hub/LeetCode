@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/yash-coding-hub/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yash-coding-hub/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/yash-coding-hub/LeetCode/tree/master/2540-minimum-common-value) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yash-coding-hub/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
