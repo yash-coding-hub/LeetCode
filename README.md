@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/yash-coding-hub/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/yash-coding-hub/LeetCode/tree/master/2540-minimum-common-value) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/yash-coding-hub/LeetCode/tree/master/1154-day-of-the-year) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yash-coding-hub/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/yash-coding-hub/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yash-coding-hub/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/yash-coding-hub/LeetCode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yash-coding-hub/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/yash-coding-hub/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/yash-coding-hub/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
