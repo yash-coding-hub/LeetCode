@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash-coding-hub/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash-coding-hub/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yash-coding-hub/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/yash-coding-hub/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yash-coding-hub/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yash-coding-hub/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yash-coding-hub/LeetCode/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/yash-coding-hub/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
