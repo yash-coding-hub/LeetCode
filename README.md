@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/yash-coding-hub/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/yash-coding-hub/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash-coding-hub/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yash-coding-hub/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/yash-coding-hub/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2540-minimum-common-value](https://github.com/yash-coding-hub/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-coding-hub/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yash-coding-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yash-coding-hub/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/yash-coding-hub/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yash-coding-hub/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/yash-coding-hub/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/yash-coding-hub/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2574-left-and-right-sum-differences](https://github.com/yash-coding-hub/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
