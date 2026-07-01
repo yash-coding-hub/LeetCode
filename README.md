@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/yash-coding-hub/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash-coding-hub/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/yash-coding-hub/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/yash-coding-hub/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yash-coding-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yash-coding-hub/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/yash-coding-hub/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/yash-coding-hub/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
