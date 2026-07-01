@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/yash-coding-hub/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/yash-coding-hub/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/yash-coding-hub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-coding-hub/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yash-coding-hub/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yash-coding-hub/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2784-check-if-array-is-good](https://github.com/yash-coding-hub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-coding-hub/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yash-coding-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yash-coding-hub/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/yash-coding-hub/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Database
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
