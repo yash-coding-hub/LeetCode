@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/yash-coding-hub/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-coding-hub/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3649-number-of-perfect-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/3649-number-of-perfect-pairs) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/yash-coding-hub/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## String
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/yash-coding-hub/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/yash-coding-hub/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## String Matching
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/yash-coding-hub/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Number Theory
 |  |
 | ------- |
