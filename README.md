@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3649-number-of-perfect-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/3649-number-of-perfect-pairs) |
+| [3701-compute-alternating-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yash-coding-hub/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/yash-coding-hub/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Number Theory
 |  |
