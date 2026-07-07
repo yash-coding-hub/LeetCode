@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3649-number-of-perfect-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/3649-number-of-perfect-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash-coding-hub/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/yash-coding-hub/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/yash-coding-hub/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
