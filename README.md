@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yash-coding-hub/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3834-merge-adjacent-equal-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3895-count-digit-appearances](https://github.com/yash-coding-hub/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/yash-coding-hub/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3834-merge-adjacent-equal-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yash-coding-hub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/yash-coding-hub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [3834-merge-adjacent-equal-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Queue
 |  |
 | ------- |
