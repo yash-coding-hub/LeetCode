@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3895-count-digit-appearances](https://github.com/yash-coding-hub/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3925-concatenate-array-with-reverse](https://github.com/yash-coding-hub/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/yash-coding-hub/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3834-merge-adjacent-equal-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/yash-coding-hub/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
