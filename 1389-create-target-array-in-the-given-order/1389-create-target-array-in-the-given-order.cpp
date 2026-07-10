@@ -7,7 +7,7 @@ public:
             v.insert(v.begin()+index[i], nums[i]);
         }
 
-        return v;
+        return v; //return this
         
     }
 };
