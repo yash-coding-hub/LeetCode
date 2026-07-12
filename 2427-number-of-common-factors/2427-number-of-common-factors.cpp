@@ -7,6 +7,6 @@ public:
                 s++;
             }
         }
-        return s;
+        return s; // return this 
     }
 };
