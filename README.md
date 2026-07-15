@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/3866-first-unique-even-element) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/yash-coding-hub/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/yash-coding-hub/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/yash-coding-hub/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/yash-coding-hub/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/yash-coding-hub/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/yash-coding-hub/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/yash-coding-hub/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Combinatorics
 |  |
 | ------- |
