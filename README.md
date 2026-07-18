@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/yash-coding-hub/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [3174-clear-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3174-clear-digits) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/yash-coding-hub/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
