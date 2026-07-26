@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/yash-coding-hub/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2295-replace-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2295-replace-elements-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/yash-coding-hub/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yash-coding-hub/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2295-replace-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2295-replace-elements-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/yash-coding-hub/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/yash-coding-hub/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
