@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/yash-coding-hub/LeetCode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/yash-coding-hub/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/yash-coding-hub/LeetCode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [3174-clear-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3174-clear-digits) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/yash-coding-hub/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
