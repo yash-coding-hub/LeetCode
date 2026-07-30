@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/yash-coding-hub/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2974-minimum-number-game](https://github.com/yash-coding-hub/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/yash-coding-hub/LeetCode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/yash-coding-hub/LeetCode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3174-clear-digits) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/yash-coding-hub/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
