@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/yash-coding-hub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-coding-hub/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/yash-coding-hub/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2974-minimum-number-game](https://github.com/yash-coding-hub/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2784-check-if-array-is-good](https://github.com/yash-coding-hub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-coding-hub/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/yash-coding-hub/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3649-number-of-perfect-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/3649-number-of-perfect-pairs) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/yash-coding-hub/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3174-clear-digits) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/yash-coding-hub/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/yash-coding-hub/LeetCode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
