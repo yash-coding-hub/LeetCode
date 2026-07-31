@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/yash-coding-hub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yash-coding-hub/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/yash-coding-hub/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3174-clear-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3174-clear-digits) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/yash-coding-hub/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yash-coding-hub/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2748-number-of-beautiful-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yash-coding-hub/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
