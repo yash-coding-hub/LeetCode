@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yash-coding-hub/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yash-coding-hub/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Math
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3649-number-of-perfect-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/3649-number-of-perfect-pairs) |
+| [3731-find-missing-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
