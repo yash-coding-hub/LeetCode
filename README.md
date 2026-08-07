@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yash-coding-hub/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yash-coding-hub/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0860-lemonade-change](https://github.com/yash-coding-hub/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/yash-coding-hub/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0912-sort-an-array) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/yash-coding-hub/LeetCode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/yash-coding-hub/LeetCode/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/yash-coding-hub/LeetCode/tree/master/0860-lemonade-change) |
 ## Bucket Sort
 |  |
 | ------- |
