@@ -6,6 +6,6 @@ public:
             nums[i] = nums[i] + nums[i-1];
         }
 
-        return nums;
+        return nums; //return this
     }
 };
