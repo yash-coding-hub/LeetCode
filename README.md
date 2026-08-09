@@ -618,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yash-coding-hub/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
