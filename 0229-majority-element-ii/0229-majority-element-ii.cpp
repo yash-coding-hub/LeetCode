@@ -23,6 +23,6 @@ public:
             result.push_back(nums[n-1]);
         }
 
-        return result;
+        return result; //return this
     }
 };
