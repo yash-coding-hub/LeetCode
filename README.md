@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yash-coding-hub/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3731-find-missing-elements) |
+| [3833-count-dominant-indices](https://github.com/yash-coding-hub/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3834-merge-adjacent-equal-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/yash-coding-hub/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/yash-coding-hub/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/yash-coding-hub/LeetCode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3833-count-dominant-indices](https://github.com/yash-coding-hub/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/yash-coding-hub/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Combinatorics
 |  |
