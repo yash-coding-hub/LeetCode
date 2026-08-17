@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1995-count-special-quadruplets](https://github.com/yash-coding-hub/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yash-coding-hub/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1995-count-special-quadruplets](https://github.com/yash-coding-hub/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yash-coding-hub/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/yash-coding-hub/LeetCode/tree/master/1952-three-divisors) |
+| [1995-count-special-quadruplets](https://github.com/yash-coding-hub/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/yash-coding-hub/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/yash-coding-hub/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
