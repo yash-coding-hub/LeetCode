@@ -1,24 +1,23 @@
 class Solution {
 public:
     int numberOfMatches(int n) {
-        // int count = 0;
-        // int matches = 0;
+        int count = 0;
+        int matches = 0;
         
 
-        // while(n > 1){
-        //     if(n % 2 != 0){
-        //         n = n - 1;
-        //         count++;
-        //     }
+        while(n > 1){
+            if(n % 2 != 0){
+                n = n - 1;
+                count++;
+            }
 
-        //     matches = matches + n / 2;
+            matches = matches + n / 2;
 
-        //     n = count + (n / 2);
-        //     count = 0;
-        // }
+            n = count + (n / 2);
+            count = 0;
+        }
 
-        // return matches;
+        return matches; //return this
 
-        return n-1;
     }
 };
