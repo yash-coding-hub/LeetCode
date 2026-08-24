@@ -9,6 +9,6 @@ public:
             }
         }
 
-        return nums.back();
+        return nums.back(); //return this
     }
 };
