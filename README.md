@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/yash-coding-hub/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/yash-coding-hub/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/yash-coding-hub/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/yash-coding-hub/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/yash-coding-hub/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/yash-coding-hub/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/yash-coding-hub/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/yash-coding-hub/LeetCode/tree/master/2679-sum-in-a-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/yash-coding-hub/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Database
 |  |
 | ------- |
@@ -651,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yash-coding-hub/LeetCode/tree/master/0229-majority-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/yash-coding-hub/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
