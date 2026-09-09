@@ -1,6 +1,6 @@
 class Solution {
 public:
-    double myPow(double x, double n) {
+    double myPow(double x, int n) {
 
         double i = x;
         double count = 2;
@@ -28,7 +28,7 @@ public:
             count++;
         }
 
-        return i;
+        return i; //return this
         
     }
 };
