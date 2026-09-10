@@ -12,6 +12,6 @@ public:
         }
         }
 
-        sort(nums1.begin(), nums1.end());
+        sort(nums1.begin(), nums1.end()); //return this
     }
 };
