@@ -12,6 +12,6 @@ public:
         }
         }
 
-        sort(nums1.begin(), nums1.end()); //return
+        sort(nums1.begin(), nums1.end()); //sort for returning the final answer
     }
 };
