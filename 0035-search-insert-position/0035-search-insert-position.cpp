@@ -18,6 +18,6 @@ public:
                 continue;
             }
         }
-        return low; // return  low as result
+        return low; // return this answer
     }
 };
