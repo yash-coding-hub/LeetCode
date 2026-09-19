@@ -5,8 +5,8 @@ public:
         sort(g.begin(), g.end());
         sort(s.begin(), s.end());
 
-        int i = 0; // child
-        int j = 0; //cookie
+        int i = 0; 
+        int j = 0; 
 
         while(i < g.size() && j < s.size()) {
 
