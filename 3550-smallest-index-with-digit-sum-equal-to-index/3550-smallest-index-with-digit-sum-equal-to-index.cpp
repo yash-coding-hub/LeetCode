@@ -18,7 +18,7 @@ public:
             }
 
             if(i == sum){
-                return i;
+                return i; //return
             }
 
             else{
@@ -27,6 +27,6 @@ public:
             }
         }
 
-        return -1;
+        return -1; //return
     }
 };
