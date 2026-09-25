@@ -7,6 +7,6 @@ public:
                 return false;
             }
     }
-    return true; //return statement
+    return true; //return this
 }
 };
