@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yash-coding-hub/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yash-coding-hub/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1732-find-the-highest-altitude](https://github.com/yash-coding-hub/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yash-coding-hub/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/yash-coding-hub/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash-coding-hub/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/yash-coding-hub/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yash-coding-hub/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yash-coding-hub/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yash-coding-hub/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yash-coding-hub/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yash-coding-hub/LeetCode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/yash-coding-hub/LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/yash-coding-hub/LeetCode/tree/master/0860-lemonade-change) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bucket Sort
@@ -695,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/yash-coding-hub/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
