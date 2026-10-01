@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/yash-coding-hub/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash-coding-hub/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/yash-coding-hub/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/yash-coding-hub/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yash-coding-hub/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
