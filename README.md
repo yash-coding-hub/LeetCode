@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-coding-hub/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/yash-coding-hub/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2951-find-the-peaks](https://github.com/yash-coding-hub/LeetCode/tree/master/2951-find-the-peaks) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/yash-coding-hub/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/yash-coding-hub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/yash-coding-hub/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-coding-hub/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/yash-coding-hub/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yash-coding-hub/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3745-maximize-expression-of-three-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bucket Sort
 |  |
