@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yash-coding-hub/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yash-coding-hub/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-coding-hub/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1732-find-the-highest-altitude](https://github.com/yash-coding-hub/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yash-coding-hub/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yash-coding-hub/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-coding-hub/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/yash-coding-hub/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/yash-coding-hub/LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/yash-coding-hub/LeetCode/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/yash-coding-hub/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-coding-hub/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/yash-coding-hub/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
