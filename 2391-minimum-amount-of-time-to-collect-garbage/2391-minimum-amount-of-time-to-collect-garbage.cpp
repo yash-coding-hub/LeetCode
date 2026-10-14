@@ -65,6 +65,6 @@ public:
         int time = total_g + total_p + total_m
                  + time_g + time_p + time_m;
 
-        return time;
+        return time; //return this final time for collecting all the garbage across
     }
 };
