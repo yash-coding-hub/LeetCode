@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-coding-hub/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/yash-coding-hub/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yash-coding-hub/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash-coding-hub/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yash-coding-hub/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yash-coding-hub/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/yash-coding-hub/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash-coding-hub/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yash-coding-hub/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yash-coding-hub/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yash-coding-hub/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yash-coding-hub/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-coding-hub/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yash-coding-hub/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/yash-coding-hub/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
