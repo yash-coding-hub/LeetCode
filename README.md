@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/yash-coding-hub/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yash-coding-hub/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yash-coding-hub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/yash-coding-hub/LeetCode/tree/master/3833-count-dominant-indices) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/yash-coding-hub/LeetCode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3649-number-of-perfect-pairs](https://github.com/yash-coding-hub/LeetCode/tree/master/3649-number-of-perfect-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yash-coding-hub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/yash-coding-hub/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yash-coding-hub/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yash-coding-hub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/yash-coding-hub/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bucket Sort
