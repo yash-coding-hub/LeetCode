@@ -18,6 +18,6 @@ public:
             result[i] = prefix[i] * suffix[i];
         }
 
-        return result;
+        return result; //return this 
     }
 };
