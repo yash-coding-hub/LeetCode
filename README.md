@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/yash-coding-hub/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/yash-coding-hub/LeetCode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/yash-coding-hub/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yash-coding-hub/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yash-coding-hub/LeetCode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yash-coding-hub/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/yash-coding-hub/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1688-count-of-matches-in-tournament](https://github.com/yash-coding-hub/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/yash-coding-hub/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -781,4 +783,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/yash-coding-hub/LeetCode/tree/master/0881-boats-to-save-people) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/yash-coding-hub/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/yash-coding-hub/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
