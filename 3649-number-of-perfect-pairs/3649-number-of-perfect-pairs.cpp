@@ -64,6 +64,6 @@ public:
             count += (ans - i);
         }
 
-        return count;
+        return count; //return this
     }
 };
