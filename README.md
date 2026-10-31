@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/yash-coding-hub/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-coding-hub/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2079-watering-plants](https://github.com/yash-coding-hub/LeetCode/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash-coding-hub/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/yash-coding-hub/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/yash-coding-hub/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/yash-coding-hub/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yash-coding-hub/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2079-watering-plants](https://github.com/yash-coding-hub/LeetCode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yash-coding-hub/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yash-coding-hub/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yash-coding-hub/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
