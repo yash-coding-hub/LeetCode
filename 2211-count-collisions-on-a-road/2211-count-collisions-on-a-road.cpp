@@ -25,6 +25,6 @@ public:
             }
         }
 
-        return collisions;
+        return collisions; // return this
     }
 };
