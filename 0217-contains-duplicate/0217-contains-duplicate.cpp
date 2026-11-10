@@ -1,19 +1,20 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        int count = 0;
-        sort(nums.begin(),nums.end());
-        for(int i=0; i<nums.size()-1; i++){
-            if(nums[i] == nums[i+1]){
-                count++;
-                break;
+
+        map<int,int> freq;
+
+        for(int x : nums){
+            freq[x]++;
+        }
+
+        for(auto it : freq){
+
+            if(it.second >= 2){
+                return true;
             }
         }
-        if(count == 0){
-            return false;
-        }
-        else{
-        return true; //return this
-        }
+
+        return false;
     }
 };
