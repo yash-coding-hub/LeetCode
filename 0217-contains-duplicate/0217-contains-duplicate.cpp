@@ -2,7 +2,7 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
 
-        map<int,int> freq;
+        unordered_map<int,int> freq;
 
         for(int x : nums){
             freq[x]++;
