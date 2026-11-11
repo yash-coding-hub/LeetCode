@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yash-coding-hub/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/yash-coding-hub/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/yash-coding-hub/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yash-coding-hub/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/yash-coding-hub/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/yash-coding-hub/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yash-coding-hub/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/yash-coding-hub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/yash-coding-hub/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/yash-coding-hub/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bucket Sort
 |  |
