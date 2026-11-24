@@ -29,6 +29,6 @@ public:
             result.push_back(freq[i].second);
         }
 
-        return result;
+        return result; // return the final answer
     }
 };
