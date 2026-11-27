@@ -26,6 +26,8 @@ public:
             }
         }
 
+        // return statements
+
         if(n == 0 && winner == 'b'){
             return false;
         }
@@ -39,7 +41,7 @@ public:
         }
 
         else{
-            return false;
+            return false; 
         }
 
     }
